@@ -11,7 +11,7 @@
 10. Cross Validation And Its Types
 11. Hyperparameter Tuning
 
-#Decision trees and Support Vector Machines
+# Decision trees and Support Vector Machines
 1. Decision Tree Classifier Implementation
 2. Post Pruning And Prepruning
 3. Decision Tree Regression Implementation
