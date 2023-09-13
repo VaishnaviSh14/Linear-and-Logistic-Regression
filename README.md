@@ -19,6 +19,13 @@
 5. Support Vector Regressor Implementation
 6. SVM Kernels
 
+#Clustering
+1.K Means Clustering
+2.Hierarichal Clustering
+3.DBSCAN Clustering
+4.Silhoutte Scoring And Clustering
+5.Agglomerative Clustering
+
 
 
 
